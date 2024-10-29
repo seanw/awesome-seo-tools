@@ -180,6 +180,8 @@ Ensure your website's foundation is solid for search engines and user experience
 
 - [Siteliner](https://www.siteliner.com/) -  Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings.
 
+- [Checkbot SEO checker](https://www.checkbot.io/) - Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems. 
+
 ## Local SEO
 
 Boost your local presence and connect with audiences in your community.
